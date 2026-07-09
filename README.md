@@ -16,7 +16,7 @@ Can we isolate structural market anomalies during monetary policy updates? This 
 ### Performance Visualizations
 | Consensus vs. Monetary Shocks Decomposed |
 | :---: |
-| ![Shock vs Expected](./shock_vs_expected_chart.png) |
+| ![Shock vs Expected](.plots/shock_vs_expected_chart.png) |
 
 ## Tech Stack & Implementation
 * **Language:** Python
