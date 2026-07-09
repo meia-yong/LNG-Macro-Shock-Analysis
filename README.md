@@ -340,10 +340,10 @@ cd LNG-Macro-Shock-Analysis
 
 ## 2) Install dependencies
 
-If a `requirements.txt` file is not yet included, install the packages used in the scripts manually:
+Install the required Python packages using:
 
 ```bash
-pip install pandas numpy matplotlib yfinance
+pip install -r requirements.txt
 ```
 
 ## 3) Run the pipeline in order
